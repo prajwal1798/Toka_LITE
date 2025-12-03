@@ -1,7 +1,7 @@
 
 ---
 
-## 5. `references/REFERENCES.md` (with your GDrive link)
+## `references/REFERENCES.md` 
 
 ```markdown
 # References
@@ -19,9 +19,6 @@ following sources:
    SMall Aspect Ratio Tokamak (SMART)," University of Seville.
 4. Additional SMART vacuum vessel, coil, and central stack
    design papers.
-
-A collection of the PDFs (where licensing permits) is
-available for CDT members at:
 
 > https://drive.google.com/drive/folders/1K9rqe7RD-TqXy3PPrY-BBxRDfaIllNTL?usp=drive_link
 
